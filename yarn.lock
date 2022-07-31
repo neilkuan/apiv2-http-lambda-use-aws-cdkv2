@@ -789,9 +789,9 @@
   integrity sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==
 
 "@types/node@*":
-  version "18.6.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.6.2.tgz#ffc5f0f099d27887c8d9067b54e55090fcd54126"
-  integrity sha512-KcfkBq9H4PI6Vpu5B/KoPeuVDAbmi+2mDBqGPGUgoL7yXQtcWGu2vJWmmRkneWK3Rh0nIAX192Aa87AqKHYChQ==
+  version "18.6.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.6.3.tgz#4e4a95b6fe44014563ceb514b2598b3e623d1c98"
+  integrity sha512-6qKpDtoaYLM+5+AFChLhHermMQxc3TOEFIDzrZLPRGHPrLEwqFkkT5Kx3ju05g6X7uDPazz3jHbKPX0KzCjntg==
 
 "@types/node@^12":
   version "12.20.55"
@@ -1090,9 +1090,9 @@ at-least-node@^1.0.0:
   integrity sha512-+q/t7Ekv1EDY2l6Gda6LLiX14rU9TV20Wa3ofeQmwPFZbOMo9DXrLbOjFaaclkXKWidIaopwAObQDqwWtGUjqg==
 
 aws-cdk-lib@^2.1.0:
-  version "2.34.1"
-  resolved "https://registry.yarnpkg.com/aws-cdk-lib/-/aws-cdk-lib-2.34.1.tgz#5111afb831c92ab77efe97f4b9a681367cc45155"
-  integrity sha512-mRfH3l5FdkqOwVnSgxrt6LdErBn/j+axy/VwDo34dsislKEnn3TZ8URLul40YFhptnPEjaFm+Ssn4mTcycjDkQ==
+  version "2.34.2"
+  resolved "https://registry.yarnpkg.com/aws-cdk-lib/-/aws-cdk-lib-2.34.2.tgz#3f95e553853417923ec3198f408472f034f7bee0"
+  integrity sha512-iXalBo+JeQ6jYxNkh5kZhVkX9gzR+eVbujPNIKYbJdSxnQAiE5oHWPMDzxRL2Yxmm2+xUKWkkfOVc2Ql+ZBp2w==
   dependencies:
     "@balena/dockerignore" "^1.0.2"
     case "1.6.3"
@@ -1105,9 +1105,9 @@ aws-cdk-lib@^2.1.0:
     yaml "1.10.2"
 
 aws-cdk@^2.1.0:
-  version "2.34.1"
-  resolved "https://registry.yarnpkg.com/aws-cdk/-/aws-cdk-2.34.1.tgz#354f4db9b7c78991c454c578e4297f6c54982066"
-  integrity sha512-s8GLIncm7SZhdfVLqlIE7q/5GOVBWcJtO8tBsc+SYynNfEw6w766kZBKMS4TZvnce8goNq+5dpw4LhUo1bpBQA==
+  version "2.34.2"
+  resolved "https://registry.yarnpkg.com/aws-cdk/-/aws-cdk-2.34.2.tgz#2d4b2873f98eef10752d4df3cd26620c32539a1c"
+  integrity sha512-HJr5NFOnux3BbDb7ioYZyPa3QQE8+R3TQnXx84uouwXeUHriCucPD2qFPxDoyelGoiJieFSUAnSrEAPaHkaUnQ==
   optionalDependencies:
     fsevents "2.3.2"
 
@@ -1483,9 +1483,9 @@ console-control-strings@^1.1.0:
   integrity sha512-ty/fTekppD2fIwRvnZAVdeOiGd1c7YXEixbgJTNzqcxJWKQnjJ/V1bNEEE6hygpM3WjwHFUVK6HTjWSzV4a8sQ==
 
 constructs@^10.0.5:
-  version "10.1.61"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.1.61.tgz#050e2e4f872848166970d2efbf545fc90c2a28df"
-  integrity sha512-o+ux1qAzR1QQEWDdybKFJyHdEdpPbUllvsJt0XAmSjZ0iilStAUNEVfGRU+vhGA5PffvO+V/AaUHfb6B3TGUUw==
+  version "10.1.62"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.1.62.tgz#e3a5cd93118dcbc5d4cb273c2a5a0089d4eb6fad"
+  integrity sha512-1480IwCI5yhxiodJqjO9rkozt+8WryVFycMpTjROtktdt8zMXsadaPYnEH/YsY027myu50/fjWKPwcuWOujAIg==
 
 conventional-changelog-config-spec@^2.1.0:
   version "2.1.0"
